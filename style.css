@@ -138,6 +138,10 @@ main {
   display: flex;
   gap: 5px;
 }
+.avatar img{
+  border-radius: 50%;
+  max-width: 40px;
+}
 .card h3 {
   font-size: 20px;
 }
